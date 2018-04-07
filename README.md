@@ -1,4 +1,4 @@
-# social-media-icon-designs
+# Social Media Icon Designs & Hover Effects in CSS
 Social Media Icons Desing  Hover Effects
 
 <a href="https://designdrastic.com/snippet/social-media-icon-designs"><strong>View Post</strong></a>
